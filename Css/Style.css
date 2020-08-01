@@ -617,6 +617,7 @@ i {
 .thanks i {
     color: #fff;
     text-align: center;
+    Border-radius:8px;
 }
 
 .final {
